@@ -1,0 +1,7 @@
+﻿Tom, 98
+May, 88
+Sam, 79.5
+Betty, 92.1
+Scott, 89.7
+Emily, 95.2
+Elizabeth, 85.2
